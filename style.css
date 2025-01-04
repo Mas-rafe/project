@@ -10,5 +10,7 @@ h2{
 }
 p{
     background-color: aquamarine;
-    
+    animation: alternate-reverse;
+    align-items: center;
+    border: 10px;    
 }
